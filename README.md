@@ -1,4 +1,4 @@
-# Python Practice 🐍
+# Python Practice 
 
 This repository contains my Python practice programs as I learn and improve my programming skills.
 
